@@ -24,24 +24,21 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![Pricing component screenshot](image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/phoenix-flyhigh/pricing-component
+- Live Site URL: https://pricing-component-virid.vercel.app/
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ## Author
 
-- Frontend Mentor Profile - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor Profile - [@phoenix-flyhigh](https://www.frontendmentor.io/profile/phoenix-flyhigh)
